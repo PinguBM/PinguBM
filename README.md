@@ -8,7 +8,7 @@
   <h2>🛠️ Habilidades</h2>
   <ul>
     <li>Linguagens: HTML, CSS, JavaScript (em progresso)</li>
-    <li>Ferramentas: Git, VS Code, Criatividade, Google & StackOverflow</li>
+    <li>Ferramentas: Git, VS Code, Criatividade</li>
     <li>Superpoderes: Fome de aprender, Café nas veias, Imaginação fora da curva</li>
   </ul>
 
