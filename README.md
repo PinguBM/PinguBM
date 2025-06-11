@@ -1,5 +1,3 @@
-<!-- Bio estilo HTML com toque de estilo pinguinesco -->
-
 <div class="bio">
   <h1>Olá! Eu sou o Luís 🐧</h1>
   <p><strong>Codinome:</strong> PinguBM</p>
