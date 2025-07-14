@@ -15,7 +15,6 @@
   <h2>🎮 Hobbies & Missões Secundárias</h2>
   <ul>
     <li>Games: Dead by Daylight (main sobrevivente), RPG de mesa, Jogos narrativos</li>
-    <li>Lives: Criar ideias malucas, Experimentar coisas novas</li>
     <li>Projetos de madrugada: sempre uma aventura</li>
   </ul>
 
