@@ -3,7 +3,7 @@
   <p><strong>Codinome:</strong> PinguBM</p>
   <p><strong>Idade:</strong> 21 anos</p>
   <p><strong>Profissão:</strong> Aventureiro do Front-end & Narrador de Histórias</p>
-  <p><strong>Curiosidade:</strong> Escrevo e posto livros de vez em quando... mas isso é outro universo 🐧📚</p>
+  <p><strong>Curiosidade:</strong> Tenho um site focado no Jogo Sonic Riders 🐧</p>
 
   <h2>🛠️ Habilidades</h2>
   <ul>
@@ -14,7 +14,7 @@
 
   <h2>🎮 Hobbies & Missões Secundárias</h2>
   <ul>
-    <li>Games: Dead by Daylight (main sobrevivente), RPG de mesa, Jogos narrativos</li>
+    <li>Games: Project Zomboid, RPG de mesa, Jogos narrativos</li>
     <li>Projetos de madrugada: sempre uma aventura</li>
   </ul>
 
