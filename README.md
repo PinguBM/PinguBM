@@ -1,22 +1,18 @@
 # Luís Felipe (PinguBM) 🐧
 
-Desenvolvedor **C# / .NET** em formação | Santa Terezinha/SC
+Desenvolvedor C# / .NET em formação | Santa Terezinha/SC
 
 Estudante de programação focado em backend e aplicações práticas. Atualmente aprofundando conhecimentos em C#, .NET Core e boas práticas de código. Construindo portfólio com projetos reais para demonstrar evolução.
 
-## Tecnologias em Foco
+## Habilidades
 - C#  
 - .NET / .NET Core  
 - Visual Studio  
 - Git & GitHub  
+- Bilíngue: Português nativo e Inglês fluente (experiência em suporte internacional para os Estados Unidos)  
 - Background: HTML, CSS, JavaScript  
-
-## Projetos em Desenvolvimento
-- Calculadora Console (em andamento)  
-- Lista de Tarefas com persistência  
-- Mais em breve  
-
-(Atualizando conforme avanço — foco em qualidade, não quantidade.)
+- Certificados relevantes: Jornada Python (Hashtag Treinamentos, 8 horas, 2024)  
+- Conhecimentos em LGPD (Lei Geral de Proteção de Dados, certificado 2022)
 
 <h2 align="center">My Links</h2>
 
