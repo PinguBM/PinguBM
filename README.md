@@ -18,14 +18,6 @@ Estudante de programação focado em backend e aplicações práticas. Atualment
 
 (Atualizando conforme avanço — foco em qualidade, não quantidade.)
 
-## Contato
-- LinkedIn: - Steam: - Portfólio: https://pingubm.github.io/portfolio/  
-
-![](https://github-readme-stats.vercel.app/api?username=Pingubm&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=c9d1d9&icon_color=9d7cd8)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pingubm&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=c9d1d9)
-
-Em constante aprendizado. Aberto a colaborações e feedback.
-
 <h2 align="center">My Links</h2>
 
 <p align="center">
