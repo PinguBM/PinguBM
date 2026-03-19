@@ -1,6 +1,6 @@
 # Luís Felipe (PinguBM) 🐧
 
-Desenvolvedor **C# / .NET** em formação | Curitiba/PR
+Desenvolvedor **C# / .NET** em formação | Santa Terezinha/SC
 
 Estudante de programação focado em backend e aplicações práticas. Atualmente aprofundando conhecimentos em C#, .NET Core e boas práticas de código. Construindo portfólio com projetos reais para demonstrar evolução.
 
