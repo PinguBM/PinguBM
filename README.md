@@ -1,27 +1,31 @@
-<div class="bio">
-  <h1>Olá! Eu sou o Luís 🐧</h1>
-  <p><strong>Codinome:</strong> PinguBM</p>
-  <p><strong>Idade:</strong> 21 anos</p>
-  <p><strong>Profissão:</strong> Aventureiro do Front-end & Narrador de Histórias</p>
-  <p><strong>Curiosidade:</strong> Tenho um site focado no Jogo Sonic Riders 🐧</p>
+# Luís Felipe (PinguBM) 🐧
 
-  <h2>🛠️ Habilidades</h2>
-  <ul>
-    <li>Linguagens: HTML, CSS, JavaScript (em progresso)</li>
-    <li>Ferramentas: Git, VS Code, Criatividade</li>
-    <li>Superpoderes: Fome de aprender, Café nas veias, Imaginação fora da curva</li>
-  </ul>
+Desenvolvedor **C# / .NET** em formação | Curitiba/PR
 
-  <h2>🎮 Hobbies & Missões Secundárias</h2>
-  <ul>
-    <li>Games: Project Zomboid, RPG de mesa, Jogos narrativos</li>
-    <li>Projetos de madrugada: sempre uma aventura</li>
-  </ul>
+Estudante de programação focado em backend e aplicações práticas. Atualmente aprofundando conhecimentos em C#, .NET Core e boas práticas de código. Construindo portfólio com projetos reais para demonstrar evolução.
 
-  <footer>
-    <p>💬 Code, caos e criatividade: é assim que o pinguim dança.</p>
-  </footer>
-</div>
+## Tecnologias em Foco
+- C#  
+- .NET / .NET Core  
+- Visual Studio  
+- Git & GitHub  
+- Background: HTML, CSS, JavaScript  
+
+## Projetos em Desenvolvimento
+- Calculadora Console (em andamento)  
+- Lista de Tarefas com persistência  
+- Mais em breve  
+
+(Atualizando conforme avanço — foco em qualidade, não quantidade.)
+
+## Contato
+- LinkedIn: - Steam: - Portfólio: https://pingubm.github.io/portfolio/  
+
+![](https://github-readme-stats.vercel.app/api?username=Pingubm&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=c9d1d9&icon_color=9d7cd8)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pingubm&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=c9d1d9)
+
+Em constante aprendizado. Aberto a colaborações e feedback.
+
 <h2 align="center">My Links</h2>
 
 <p align="center">
